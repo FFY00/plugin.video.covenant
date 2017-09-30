@@ -39,6 +39,7 @@
         <setting id="provider.1movies" type="bool" label="1MOVIES" default="true" />
         <setting id="provider.afdah" type="bool" label="AFDAH" default="true" />
         <setting id="provider.allucen" type="bool" label="ALLUC" default="true" />
+        <setting id="provider.allrls" type="bool" label="ALLRLS" default="true" />
         <setting id="provider.animeultima" type="bool" label="ANIMEULTIMA" default="true" />
         <setting id="provider.bmoviez" type="bool" label="BMOVIEZ" default="true" />
         <setting id="provider.bobby" type="bool" label="BOBBY" default="true" />
