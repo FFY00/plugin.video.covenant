@@ -753,7 +753,7 @@ msgstr "Sto aggiungendo alla libreria..."
 
 msgctxt "#32553"
 msgid "Updating TV shows..."
-msgstr "Sto aggiornando le Serie TV"
+msgstr "Sto aggiornando le Serie TV..."
 
 msgctxt "#32554"
 msgid "Process Complete"
@@ -769,7 +769,7 @@ msgstr "[B]COVENANT[/B] : Libreria"
 
 msgctxt "#32557"
 msgid "[B]LIBRARY[/B] : Settings"
-msgstr "[B]LIBRERIA[/B] : Impostrazioni"
+msgstr "[B]LIBRERIA[/B] : Impostazioni"
 
 msgctxt "#32558"
 msgid "[B]COVENANT[/B] : Update library..."
