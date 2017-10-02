@@ -185,8 +185,8 @@
     </category>
     <category label="32346">
         <setting type="lsep" label="FANART.TV" />
-        <setting type="lsep" label="Personal API keys provide quicker API responses." />
-        <setting type="lsep" label="Become a VIP member for many benefits at: https://fanart.tv/vip" />
+        <setting type="lsep" label="32582" default="" />
+        <setting type="lsep" label="32583" default="" />
         <setting id="fanart.tv.user" type="text" label="32309" default="" />
         <setting type="sep" />
         <setting type="lsep" label="TMDb" />
