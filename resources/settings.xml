@@ -93,6 +93,7 @@
         <setting id="provider.seriesonline" type="bool" label="SERIESONLINE" default="true" />
         <setting id="provider.solarmovie" type="bool" label="SOLARMOVIE" default="true" />
         <setting id="provider.streamlord" type="bool" label="STREAMLORD" default="true" />
+        <setting id="provider.tinklepad" type="bool" label="TINKLEPAD" default="true" />
         <setting id="provider.tinydl" type="bool" label="TINYDL" default="true" />
         <setting id="provider.tunemovie" type="bool" label="TUNEMOVIE" default="true" />
         <setting id="provider.tvbox" type="bool" label="TVBOX" default="true" />
