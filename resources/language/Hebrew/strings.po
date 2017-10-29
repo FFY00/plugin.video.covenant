@@ -322,7 +322,7 @@ msgstr "רענן"
 
 msgctxt "#32073"
 msgid "[B]TRAKT[/B] : Authorize"
-msgstr "B]טראקט[/B] : הזדהות"
+msgstr "[B]טראקט[/B] : הזדהות"
 
 msgctxt "#32074"
 msgid "[B]HELP[/B]"
