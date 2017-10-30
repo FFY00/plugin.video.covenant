@@ -80,7 +80,8 @@
         <setting id="provider.ninemovies" type="bool" label="NINEMOVIES" default="true" />
         <setting id="provider.onemovies" type="bool" label="ONEMOVIES" default="true" />
         <setting id="provider.1movies" type="bool" label="ONEMOVIES" default="true" /> 
-        <setting id="provider.123hulu" type="bool" label="ONETWOTHREE MOVIES" default="true" /> 
+        <setting id="provider.123hulu" type="bool" label="ONETWOTHREE MOVIES" default="true" />
+        <setting id="provider.123nflix" type="bool" label="123NFLIX" default="true" /> 
         <setting id="provider.onlinedizi" type="bool" label="ONLINEDIZI" default="true" />
         <setting id="provider.onlinemovies" type="bool" label="ONLINEMOVIES" default="true" />
         <setting id="provider.onlinemoviesis" type="bool" label="ONLINEMOVIESIS" default="true" />
