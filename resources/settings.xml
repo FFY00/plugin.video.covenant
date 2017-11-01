@@ -65,6 +65,7 @@
         <setting id="provider.rlsbb" type="bool" label="RLSBB" default="true" />
         <setting id="provider.rlsmovies" type="bool" label="RLSMOVIES" default="true" />
         <setting id="provider.sceper" type="bool" label="SCEPER" default="true" />
+        <setting id="provider.series9" type="bool" label="SERIES9" default="true" />
         <setting id="provider.seriesfree" type="bool" label="SERIESFREE" default="true" />
         <setting id="provider.sezonlukdizi" type="bool" label="SEZONLUKDIZI" default="true" />
         <setting id="provider.tvbox" type="bool" label="TVBOX" default="true" />
