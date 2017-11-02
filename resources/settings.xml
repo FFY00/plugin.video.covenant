@@ -73,6 +73,7 @@
         <setting id="provider.seriesfree" type="bool" label="SERIESFREE" default="true" />
         <setting id="provider.sezonlukdizi" type="bool" label="SEZONLUKDIZI" default="true" />
         <setting id="provider.tvbox" type="bool" label="TVBOX" default="true" />
+        <setting id="provider.tvrelease" type="bool" label="TVRELEASE" default="true" />
         <setting id="provider.videoscraper" type="bool" label="VIDEOSCRAPER" default="true" />
         <setting id="provider.vodly" type="bool" label="VODLY" default="true" />
         <setting id="provider.watch32" type="bool" label="WATCH32" default="true" />
