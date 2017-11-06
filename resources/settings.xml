@@ -61,6 +61,7 @@
         <setting id="provider.miradetodo" type="bool" label="MIRADETODO" default="true" />
         <setting id="provider.movie4kis" type="bool" label="MOVIE4KIS" default="true" />
         <setting id="provider.movie4korg" type="bool" label="MOVIE4KORG" default="true" />
+        <setting id="provider.movie4uch" type="bool" label="MOVIE4UCH" default="true" />
         <setting id="provider.moviesgold" type="bool" label="MOVIESGOLD" default="true" />
         <setting id="provider.mywatchseries" type="bool" label="MYWATCHSERIES" default="true" />
         <setting id="provider.mzmovies" type="bool" label="MZMOVIES" default="true" />
@@ -77,6 +78,7 @@
         <setting id="provider.rlsmovies" type="bool" label="RLSMOVIES" default="true" />
         <setting id="provider.sceper" type="bool" label="SCEPER" default="true" />
         <setting id="provider.series9" type="bool" label="SERIES9" default="true" />
+        <setting id="provider.seriescr" type="bool" label="SERIESCR" default="true" />
         <setting id="provider.seriesfree" type="bool" label="SERIESFREE" default="true" />
         <setting id="provider.sezonlukdizi" type="bool" label="SEZONLUKDIZI" default="true" />
         <setting id="provider.solarmovie" type="bool" label="SOLARMOVIE" default="true" />
