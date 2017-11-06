@@ -47,9 +47,11 @@
         <setting id="provider.animeultima" type="bool" label="ANIMEULTIMA" default="true" />
         <setting id="provider.bestmoviez" type="bool" label="BESTMOVIEZ" default="true" />
         <setting id="provider.ddlvalley" type="bool" label="DDLVALLEY" default="true" />
+        <setting id="provider.ddls" type="bool" label="DDLS" default="true" />
         <setting id="provider.dizigold" type="bool" label="DIZIGOLD" default="true" />
         <setting id="provider.einthusan" type="bool" label="EINTHUSAN" default="true" />
         <setting id="provider.flixanity" type="bool" label="FLIXANITY" default="true" />
+        <setting id="provider.fmovied6" type="bool" label="FMOVIED6" default="true" />
         <setting id="provider.genvideos" type="bool" label="GENVIDEOS" default="true" />
         <setting id="provider.gogoanime" type="bool" label="GOGOANIME" default="true" />
         <setting id="provider.hevcfilm" type="bool" label="HEVCFILM" default="true" />
@@ -60,6 +62,7 @@
         <setting id="provider.miradetodo" type="bool" label="MIRADETODO" default="true" />
         <setting id="provider.movie4kis" type="bool" label="MOVIE4KIS" default="true" />
         <setting id="provider.movie4korg" type="bool" label="MOVIE4KORG" default="true" />
+        <setting id="provider.movie4uch" type="bool" label="MOVIE4UCH" default="true" />
         <setting id="provider.moviesgold" type="bool" label="MOVIESGOLD" default="true" />
         <setting id="provider.mywatchseries" type="bool" label="MYWATCHSERIES" default="true" />
         <setting id="provider.mzmovies" type="bool" label="MZMOVIES" default="true" />
@@ -76,6 +79,7 @@
         <setting id="provider.rlsmovies" type="bool" label="RLSMOVIES" default="true" />
         <setting id="provider.sceper" type="bool" label="SCEPER" default="true" />
         <setting id="provider.series9" type="bool" label="SERIES9" default="true" />
+        <setting id="provider.seriescr" type="bool" label="SERIESCR" default="true" />
         <setting id="provider.seriesfree" type="bool" label="SERIESFREE" default="true" />
         <setting id="provider.sezonlukdizi" type="bool" label="SEZONLUKDIZI" default="true" />
         <setting id="provider.solarmovie" type="bool" label="SOLARMOVIE" default="true" />
@@ -87,7 +91,13 @@
         <setting id="provider.watchfree" type="bool" label="WATCHFREE" default="true" />
         <setting id="provider.watchseries" type="bool" label="WATCHSERIES" default="true" />
         <setting id="provider.wrzcraft" type="bool" label="WRZCRAFT" default="true" />
+<<<<<<< HEAD
+        <setting id="provider.videoscraper" type="bool" label="VIDEOSCRAPER" default="true" />
+        <setting id="provider.vodly" type="bool" label="VODLY" default="true" />
+        <setting id="provider.xmovies" type="bool" label="XMOVIES" default="true" />
+=======
         <setting id="provider.xwatchseries" type="bool" label="XWATCHSERIES" default="true" />
+>>>>>>> Colossal1/master
         <setting id="provider.ymovies" type="bool" label="YMOVIES" default="true" />
         <setting label="Italian" type="lsep" />
         <setting id="provider.allucit" type="bool" label="ALLUC" default="true" />
