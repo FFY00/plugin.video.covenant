@@ -46,8 +46,9 @@
         <setting id="provider.allrls" type="bool" label="ALLRLS" default="true" />
         <setting id="provider.animeultima" type="bool" label="ANIMEULTIMA" default="true" />
         <setting id="provider.bestmoviez" type="bool" label="BESTMOVIEZ" default="true" />
-        <setting id="provider.ddlvalley" type="bool" label="DDLVALLEY" default="true" />
+        <setting id="provider.cmovies" type="bool" label="CMOVIES" default="true" />
         <setting id="provider.ddls" type="bool" label="DDLS" default="true" />
+        <setting id="provider.ddlvalley" type="bool" label="DDLVALLEY" default="true" />
         <setting id="provider.directdl" type="bool" label="DIRECTDL" default="true" />
         <setting id="provider.divxcrawler" type="bool" label="DIVXCRAWLER" default="true" />
         <setting id="provider.dizigold" type="bool" label="DIZIGOLD" default="true" />
@@ -59,6 +60,7 @@
         <setting id="provider.hevcfilm" type="bool" label="HEVCFILM" default="true" />
         <setting id="provider.icefilms" type="bool" label="ICEFILMS" default="true" />
         <setting id="provider.icefilmsis" type="bool" label="ICEFILMSIS" default="true" />
+        <setting id="provider.imdark" type="bool" label="IMDARK" default="true" />
         <setting id="provider.kingmovies" type="bool" label="KINGMOVIES" default="true" />
         <setting id="provider.library" type="bool" label="LIBRARY" default="true" />
         <setting id="provider.miradetodo" type="bool" label="MIRADETODO" default="true" />
@@ -93,13 +95,7 @@
         <setting id="provider.watchfree" type="bool" label="WATCHFREE" default="true" />
         <setting id="provider.watchseries" type="bool" label="WATCHSERIES" default="true" />
         <setting id="provider.wrzcraft" type="bool" label="WRZCRAFT" default="true" />
-<<<<<<< HEAD
-        <setting id="provider.videoscraper" type="bool" label="VIDEOSCRAPER" default="true" />
-        <setting id="provider.vodly" type="bool" label="VODLY" default="true" />
-        <setting id="provider.xmovies" type="bool" label="XMOVIES" default="true" />
-=======
         <setting id="provider.xwatchseries" type="bool" label="XWATCHSERIES" default="true" />
->>>>>>> Colossal1/master
         <setting id="provider.ymovies" type="bool" label="YMOVIES" default="true" />
         <setting label="Italian" type="lsep" />
         <setting id="provider.allucit" type="bool" label="ALLUC" default="true" />
