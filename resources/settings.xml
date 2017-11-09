@@ -3,7 +3,7 @@
     <category label="32310">
         <setting id="appearance.alt" type="action" label="32311" default="-" option="close" action="RunPlugin(plugin://plugin.video.covenant/?action=artwork)" visible="!System.HasAddon(script.covenant.artwork)" />
         <setting id="appearance.1" type="select" label="32311" values="Exuary|Covenant" default="Covenant" visible="System.HasAddon(script.covenant.artwork)" />
-        <setting id="scrapers.timeout.1" type="slider" label="32312" default="30" range="10,60" option="int" />
+        <setting id="scrapers.timeout.1" type="slider" label="32312" default="60" range="10,60" option="int" />
         <setting id="trakt.user" type="text" default="" visible="false" />
         <setting id="indicators.alt" type="enum" label="32313" lvalues="32314|32315" default="1" visible="!eq(-1,)" />
         <setting id="indicators" type="enum" label="32313" lvalues="32314" default="0" visible="eq(-2,)" />
