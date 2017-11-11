@@ -97,6 +97,7 @@
         <setting id="provider.watchseries" type="bool" label="WATCHSERIES" default="true" />
         <setting id="provider.wrzcraft" type="bool" label="WRZCRAFT" default="true" />
         <setting id="provider.xwatchseries" type="bool" label="XWATCHSERIES" default="true" />
+        <setting id="provider.xmovies" type="bool" label="XMOVIES" default="true" />
         <setting id="provider.ymovies" type="bool" label="YMOVIES" default="true" />
         <setting label="Italian" type="lsep" />
         <setting id="provider.allucit" type="bool" label="ALLUC" default="true" />
