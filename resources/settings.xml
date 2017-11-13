@@ -58,8 +58,6 @@
         <setting id="provider.genvideos" type="bool" label="GENVIDEOS" default="true" />
         <setting id="provider.gogoanime" type="bool" label="GOGOANIME" default="true" />
         <setting id="provider.hevcfilm" type="bool" label="HEVCFILM" default="true" />
-        <setting id="provider.icefilms" type="bool" label="ICEFILMS" default="true" />
-        <setting id="provider.icefilmsis" type="bool" label="ICEFILMSIS" default="true" />
         <setting id="provider.imdark" type="bool" label="IMDARK" default="true" />
         <setting id="provider.kingmovies" type="bool" label="KINGMOVIES" default="true" />
         <setting id="provider.library" type="bool" label="LIBRARY" default="true" />
@@ -97,6 +95,7 @@
         <setting id="provider.watchseries" type="bool" label="WATCHSERIES" default="true" />
         <setting id="provider.wrzcraft" type="bool" label="WRZCRAFT" default="true" />
         <setting id="provider.xwatchseries" type="bool" label="XWATCHSERIES" default="true" />
+        <setting id="provider.xmovies" type="bool" label="XMOVIES" default="true" />
         <setting id="provider.ymovies" type="bool" label="YMOVIES" default="true" />
         <setting label="Italian" type="lsep" />
         <setting id="provider.allucit" type="bool" label="ALLUC" default="true" />
@@ -162,6 +161,7 @@
         <setting id="provider.ekinomaniak" type="bool" label="EKINOMANIAK" default="true" />
         <setting id="provider.filiser" type="bool" label="FILISER" default="true" />
         <setting id="provider.filmwebbooster" type="bool" label="FILMWEBBOOSTER" default="true" />
+        <setting id="provider.filmwebbooster.extrasearch" type="bool" label="FILMWEBBOOSTER EXTRA SEARCH" default="false" />        
         <setting label="Korean" type="lsep" />
         <setting id="provider.drama4u" type="bool" label="DRAMA4U" default="true" />
         <setting id="provider.dramabus" type="bool" label="DRAMABUS" default="true" />
