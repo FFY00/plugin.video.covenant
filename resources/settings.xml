@@ -56,6 +56,7 @@
         <setting id="provider.einthusan" type="bool" label="EINTHUSAN" default="true" />
         <setting id="provider.flixanity" type="bool" label="FLIXANITY" default="true" />
         <setting id="provider.fmovied6" type="bool" label="FMOVIED6" default="true" />
+        <setting id="provider.ganol" type="bool" label="GANOL" default="true" />
         <setting id="provider.genvideos" type="bool" label="GENVIDEOS" default="true" />
         <setting id="provider.gogoanime" type="bool" label="GOGOANIME" default="true" />
         <setting id="provider.hevcfilm" type="bool" label="HEVCFILM" default="true" />
