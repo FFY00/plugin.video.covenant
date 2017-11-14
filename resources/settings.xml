@@ -61,6 +61,8 @@
         <setting id="provider.gogoanime" type="bool" label="GOGOANIME" default="true" />
         <setting id="provider.hevcfilm" type="bool" label="HEVCFILM" default="true" />
         <setting id="provider.imdark" type="bool" label="IMDARK" default="true" />
+        <setting id="provider.kakitube" type="bool" label="KAKITUBE" default="true" />
+        <setting id="provider.kattv" type="bool" label="KATTV" default="true" />
         <setting id="provider.kingmovies" type="bool" label="KINGMOVIES" default="true" />
         <setting id="provider.library" type="bool" label="LIBRARY" default="true" />
         <setting id="provider.miradetodo" type="bool" label="MIRADETODO" default="true" />
