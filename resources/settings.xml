@@ -39,10 +39,10 @@
     <category label="32345">
         <setting label="English" type="lsep" />
         <setting type="sep" />
-        <setting id="provider.2dll" type="bool" label="2DLL" default="true" />
         <setting id="provider.123hulu" type="bool" label="123HULU" default="true" />
         <setting id="provider.123netflix" type="bool" label="123NETFLIX" default="true" />
         <setting id="provider.300mbfilms" type="bool" label="300MBFILMS" default="true" />
+        <setting id="provider.2dll" type="bool" label="2DLL" default="true" />
         <setting id="provider.afdah" type="bool" label="AFDAH" default="true" />
         <setting id="provider.allrls" type="bool" label="ALLRLS" default="true" />
         <setting id="provider.allucen" type="bool" label="ALLUC" default="true" />
@@ -65,6 +65,9 @@
         <setting id="provider.imdark" type="bool" label="IMDARK" default="true" />
         <setting id="provider.kakitube" type="bool" label="KAKITUBE" default="true" />
         <setting id="provider.kattv" type="bool" label="KATTV" default="true" />
+        <setting id="provider.icefilms" type="bool" label="ICEFILMS" default="true" />
+        <setting id="provider.icefilmsis" type="bool" label="ICEFILMSIS" default="true" />
+        <setting id="provider.imdark" type="bool" label="IMDARK" default="true" />
         <setting id="provider.kingmovies" type="bool" label="KINGMOVIES" default="true" />
         <setting id="provider.library" type="bool" label="LIBRARY" default="true" />
         <setting id="provider.miradetodo" type="bool" label="MIRADETODO" default="true" />
@@ -72,10 +75,12 @@
         <setting id="provider.movie4korg" type="bool" label="MOVIE4KORG" default="true" />
         <setting id="provider.movie4uch" type="bool" label="MOVIE4UCH" default="true" />
         <setting id="provider.moviesgold" type="bool" label="MOVIESGOLD" default="true" />
+        <setting id="provider.moviesplanet" type="bool" label="MOVIESPLANET" default="true" />
         <setting id="provider.mywatchseries" type="bool" label="MYWATCHSERIES" default="true" />
         <setting id="provider.mzmovies" type="bool" label="MZMOVIES" default="true" />
         <setting id="provider.onlinedizi" type="bool" label="ONLINEDIZI" default="true" />
         <setting id="provider.openloadmovies" type="bool" label="OPENLOADMOVIES" default="true" />
+        <setting id="provider.ororo" type="bool" label="ORORO" default="true" />
         <setting id="provider.phazeddl" type="bool" label="PHAZEDLL" default="true" />
         <setting id="provider.plocker" type="bool" label="PLOCKER" default="true" />
         <setting id="provider.popcorn" type="bool" label="POPCORN" default="true" />
@@ -106,11 +111,14 @@
         <setting id="provider.wrzcraft" type="bool" label="WRZCRAFT" default="true" />
         <setting id="provider.xwatchseries" type="bool" label="XWATCHSERIES" default="true" />
         <setting id="provider.xmovies" type="bool" label="XMOVIES" default="true" />
+=======
+        <setting id="provider.xwatchseries" type="bool" label="XWATCHSERIES" default="true" />
+>>>>>>> Colossal1/master
         <setting id="provider.ymovies" type="bool" label="YMOVIES" default="true" />
         <setting label="Italian" type="lsep" />
-        <setting id="provider.allucit" type="bool" label="ALLUC" default="true" />
+        <setting id="provider.allucit" type="bool" label="ALLUC_IT" default="true" />
         <setting label="German" type="lsep" />
-        <setting id="provider.allucde" type="bool" label="ALLUC" default="true" />
+        <setting id="provider.allucde" type="bool" label="ALLUC_DE" default="true" />
         <setting id="provider.animebase" type="bool" label="ANIMEBASE" default="true" />
         <setting id="provider.animeloads" type="bool" label="ANIMELOADS" default="true" />
         <setting id="provider.bs" type="bool" label="BS" default="true" />
@@ -148,7 +156,7 @@
         <setting id="provider.video4k" type="bool" label="VIDEO4K" default="true" />
         <setting id="provider.view4u" type="bool" label="VIEW4U" default="true" />
         <setting label="French" type="lsep" />
-        <setting id="provider.allucfr" type="bool" label="ALLUC" default="true" />
+        <setting id="provider.allucfr" type="bool" label="ALLUC_FR" default="true" />
         <setting id="provider.cinemay" type="bool" label="CINEMAY" default="true" />
         <setting id="provider.dpstreaming" type="bool" label="DPSTREAMING" default="true" />
         <setting id="provider.filmenstreaminghd" type="bool" label="FILMENSTREAMINGHD" default="true" />
@@ -158,7 +166,7 @@
         <setting id="provider.streamay" type="bool" label="STREAMAY" default="true" />
         <setting id="provider.streamingseries" type="bool" label="STREAMINGSERIES" default="true" />
         <setting label="Polish" type="lsep" />
-        <setting id="provider.allucpl" type="bool" label="ALLUC" default="true" />
+        <setting id="provider.allucpl" type="bool" label="ALLUC_PL" default="true" />
         <setting id="provider.alltube" type="bool" label="ALLTUBE" default="true" />
         <setting id="provider.filmyto" type="bool" label="FILMYTO" default="true" />
         <setting id="provider.cdax" type="bool" label="CDAX" default="true" />
@@ -194,10 +202,10 @@
         <setting id="provider.seriespapaya" type="bool" label="SERIESPAPAYA" default="true" />
         <setting label="Greek" type="lsep" />
         <setting id="provider.gamatotv" type="bool" label="GAMATO" default="true" />
+        <setting id="provider.liomenoi" type="bool" label="LIOMENOI" default="true" />
         <setting id="provider.tainiomania" type="bool" label="TAINIOMANIA" default="true" />
         <setting id="provider.tainiesonline" type="bool" label="TAINIESONLINE" default="true" />
         <setting id="provider.xrysoi" type="bool" label="XRYSOI" default="true" />
-        <setting id="provider.liomenoi" type="bool" label="LIOMENOI" default="true" />
     </category>
     <category label="32346">
         <setting type="lsep" label="FANART.TV" />
