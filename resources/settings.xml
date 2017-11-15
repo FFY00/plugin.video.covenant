@@ -44,6 +44,8 @@
         <setting id="provider.123netflix" type="bool" label="123NETFLIX" default="true" />
         <setting id="provider.afdah" type="bool" label="AFDAH" default="true" />
         <setting id="provider.allrls" type="bool" label="ALLRLS" default="true" />
+        <setting id="provider.allucen" type="bool" label="ALLUC" default="true" />
+        <setting id="provider.allrls" type="bool" label="ALLRLS" default="true" />
         <setting id="provider.animeultima" type="bool" label="ANIMEULTIMA" default="true" />
         <setting id="provider.bestmoviez" type="bool" label="BESTMOVIEZ" default="true" />
         <setting id="provider.cmovies" type="bool" label="CMOVIES" default="true" />
@@ -85,6 +87,10 @@
         <setting id="provider.seriesfree" type="bool" label="SERIESFREE" default="true" />
         <setting id="provider.sezonlukdizi" type="bool" label="SEZONLUKDIZI" default="true" />
         <setting id="provider.solarmovie" type="bool" label="SOLARMOVIE" default="true" />
+        <setting id="provider.streamlord" type="bool" label="STREAMLORD" default="true" />
+        <setting id="provider.tinklepad" type="bool" label="TINKLEPAD" default="true" />
+        <setting id="provider.tinydl" type="bool" label="TINYDL" default="true" />
+        <setting id="provider.tunemovie" type="bool" label="TUNEMOVIE" default="true" />
         <setting id="provider.tvbox" type="bool" label="TVBOX" default="true" />
         <setting id="provider.tvrelease" type="bool" label="TVRELEASE" default="true" />
         <setting id="provider.ultrahd" type="bool" label="ULTRAHD" default="true" />
