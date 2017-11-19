@@ -684,3 +684,10 @@ msgctxt "#32535"
 msgid "Play Random"
 msgstr "Reproduzir ao acaso"
 
+msgctxt "#32608"
+msgid "Client ID"
+msgstr "ID da Aplicação (Client ID)"
+
+msgctxt "#32609"
+msgid "Cient Secret"
+msgstr "ID Secreto da Aplicação (Client Secret)"

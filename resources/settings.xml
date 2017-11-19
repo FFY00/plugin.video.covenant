@@ -216,8 +216,8 @@
         <setting type="lsep" label="Trakt" />
         <setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.covenant/?action=authTrakt)" />
         <setting id="trakt.token" type="text" option="hidden" label="" default="" />
-	<setting id="trakt.client_id" type="text" option="hidden" label="Client ID" default="acc97918ace2b0a211957d574e7cd7c7bc7a59b9c949df625077f1d5fb107082" />
-	<setting id="trakt.client_secret" type="text" option="hidden" label="Client Secret" default="0f3e0b9096477ee0d373d1d354700449bf0fa648bef33c191db5845b346f16ef" />
+	<setting id="trakt.client_id" type="text" option="hidden" label="32608" default="acc97918ace2b0a211957d574e7cd7c7bc7a59b9c949df625077f1d5fb107082" />
+	<setting id="trakt.client_secret" type="text" option="hidden" label="32609" default="0f3e0b9096477ee0d373d1d354700449bf0fa648bef33c191db5845b346f16ef" />
         <setting id="trakt.refresh" type="text" visible="false" label="" default="" />
         <setting type="sep" />
         <setting type="lsep" label="IMDb" />
