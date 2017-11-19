@@ -46,7 +46,6 @@
         <setting id="provider.afdah" type="bool" label="AFDAH" default="true" />
         <setting id="provider.allrls" type="bool" label="ALLRLS" default="true" />
         <setting id="provider.allucen" type="bool" label="ALLUC" default="true" />
-        <setting id="provider.allrls" type="bool" label="ALLRLS" default="true" />
         <setting id="provider.animeultima" type="bool" label="ANIMEULTIMA" default="true" />
         <setting id="provider.bestmoviez" type="bool" label="BESTMOVIEZ" default="true" />
         <setting id="provider.cmovies" type="bool" label="CMOVIES" default="true" />
@@ -218,7 +217,7 @@
         <setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.covenant/?action=authTrakt)" />
         <setting id="trakt.token" type="text" option="hidden" label="" default="" />
 	<setting id="trakt.client_id" type="text" option="hidden" label="Client ID" default="acc97918ace2b0a211957d574e7cd7c7bc7a59b9c949df625077f1d5fb107082" />
-	<setting id="trakt.client_secret" type="text" visible="false" label="Client Secret" default="0f3e0b9096477ee0d373d1d354700449bf0fa648bef33c191db5845b346f16ef" />
+	<setting id="trakt.client_secret" type="text" option="hidden" label="Client Secret" default="0f3e0b9096477ee0d373d1d354700449bf0fa648bef33c191db5845b346f16ef" />
         <setting id="trakt.refresh" type="text" visible="false" label="" default="" />
         <setting type="sep" />
         <setting type="lsep" label="IMDb" />
