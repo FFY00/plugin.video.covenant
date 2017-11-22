@@ -2,7 +2,6 @@
 <addon id="plugin.video.covenant" version="2.0.001" name="Covenant" provider-name="Covenant">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="repository.colossus" />
 		<import addon="script.module.covenant" />
 		<import addon="script.covenant.artwork" version="2.0.0" />
 		<import addon="script.covenant.metadata" version="2.0.0" />
